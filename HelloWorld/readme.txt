@@ -13,3 +13,5 @@ npm install --save gulp-eslint@0.15.0
 npm install --save react@0.13.3 react-router@0.13.3 flux@2.0.3
 
 npm install --save lodash
+
+npm install --save toastr@2.1.0
